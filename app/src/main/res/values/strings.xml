@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TheMovieDb</string>
+
+    <string name="sort_key">keySort</string>
+    <string name="sort_topRated">Top Rated</string>
+    <string name="sort_mostPopular">Most Popular</string>
+
+    <string name="api_key">keyAPI</string>
+</resources>

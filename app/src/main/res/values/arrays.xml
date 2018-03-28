@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="sort">
+        <item>@string/sort_topRated</item>
+        <item>@string/sort_mostPopular</item>
+    </array>
+</resources>
